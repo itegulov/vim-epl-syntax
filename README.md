@@ -27,3 +27,7 @@ Always welcome, make sure your commit message should follow this very simple [**
 ### Screenshots
 ##### Solarized Dark
 ![EPL Syntax for Vim](http://i.imgur.com/mer3QDB.png)
+
+### FAQ
+##### Q: I liked it! What should I do now?
+A: Just go to http://www.vim.org/scripts/script.php?script_id=5287 and rate us as 'Life changing'!
